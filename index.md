@@ -5,6 +5,7 @@
 layout: default
 ---
 # プライバシーポリシー
+this is test
 
 ## 第1条（プライバシー情報）
 
